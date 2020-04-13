@@ -1,0 +1,6 @@
+Flask
+
+Flask-Mail
+gunicorn==19.6.0
+
+pymongo[srv]
